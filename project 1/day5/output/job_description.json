@@ -1,0 +1,28 @@
+{
+    "role": "Software Development Engineer I (SDE-I)",
+    "required_skills": [
+        "Programming fundamentals",
+        "data structures",
+        "algorithms",
+        "problem solving",
+        "object-oriented programming"
+    ],
+    "preferred_skills": [
+        "Python",
+        "Java",
+        "C++",
+        "SQL",
+        "databases",
+        "web development"
+    ],
+    "minimum_experience": 0.0,
+    "education_requirements": [
+        "Bachelor's degree in Computer Science, Engineering, or a related field"
+    ],
+    "responsibilities": [
+        "Develop, test, and maintain software applications.",
+        "Write readable and maintainable code.",
+        "Work with team members to design and implement solutions.",
+        "Debug software problems and improve application performance."
+    ]
+}

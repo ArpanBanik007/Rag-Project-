@@ -1,0 +1,134 @@
+{
+    "job_role": "Software Development Engineer I (SDE-I)",
+    "total_resumes_found": 3,
+    "successfully_processed": 1,
+    "failed_count": 2,
+    "candidates": [
+        {
+            "file_name": "Ashish Raj 24PCS007 (1) - Ashish Raj.pdf",
+            "candidate": {
+                "name": "Ashish Raj",
+                "email": "ashishraj2315@gmail.com",
+                "phone": "+91 9314584558",
+                "total_experience_years": 4.0,
+                "skills": [
+                    "C++",
+                    "Python",
+                    "NLP",
+                    "Machine Learning",
+                    "Deep Learning",
+                    "Data Structures and Algorithms",
+                    "Kali Linux",
+                    "Networking",
+                    "Computer Hacking",
+                    "Forensics",
+                    "DevOps",
+                    "Jenkins",
+                    "GitHub",
+                    "Ansible",
+                    "Docker",
+                    "Kubernetes",
+                    "AWS",
+                    "PyTorch",
+                    "OpenCV",
+                    "YOLOv5",
+                    "CI/CD Pipeline",
+                    "Ansible Playbook",
+                    "Arduino",
+                    "Serial Communication"
+                ],
+                "experiences": [
+                    {
+                        "company": "Gurugram Police Cyber Security Summer Internship (GPCSSI 2024)",
+                        "position": "Internship",
+                        "duration": "June 2024 – Aug 2024",
+                        "description": "Hands‑on experience in bug bounty programs, dark web monitoring, cyber‑crime investigation techniques, visits to cyber forensic labs, and insights into ongoing cyber threats, prevention strategies, and awareness campaigns."
+                    },
+                    {
+                        "company": "Lovely Professional University",
+                        "position": "Volunteer",
+                        "duration": "Feb 2023",
+                        "description": "Organized an event on critical thinking skills."
+                    }
+                ],
+                "education": [
+                    {
+                        "degree": "M.Tech CSE (AI)",
+                        "institution": "National Institute of Technology Agartala",
+                        "graduation_year": null
+                    },
+                    {
+                        "degree": "B.Tech CSE",
+                        "institution": "Lovely Professional University",
+                        "graduation_year": null
+                    }
+                ],
+                "projects": [
+                    {
+                        "name": "Automated CI/CD Pipeline for Web Application Deployment",
+                        "description": "Created an automated CI/CD pipeline using Jenkins, GitHub, and Ansible for integration, delivery, and configuration management, achieving streamlined development and operational efficiency.",
+                        "technologies": [
+                            "Jenkins",
+                            "GitHub",
+                            "Ansible",
+                            "Docker",
+                            "Kubernetes",
+                            "AWS"
+                        ]
+                    },
+                    {
+                        "name": "Real‑Time Object Detection and Directional Movement Control Using YOLOv5 and OpenCV",
+                        "description": "Implemented real‑time object detection with YOLOv5 and OpenCV, controlling robot movement (left, center, right) based on object position and optional Arduino‑based movement via serial communication.",
+                        "technologies": [
+                            "Python",
+                            "PyTorch",
+                            "YOLOv5",
+                            "OpenCV"
+                        ]
+                    }
+                ],
+                "certifications": [
+                    "Ethical Hacking (MyCaptain) – Nov 2021",
+                    "Penetration Testing and Ethical Hacking (Cybrary) – Nov 2023",
+                    "Computer Hacking and Forensics (Cybrary) – Apr 2023",
+                    "CompTIA Linux+ (cybrary) – Apr 2023",
+                    "DSA self‑placed Course (Geeks for Geeks) – Jul 2022"
+                ]
+            },
+            "matching_result": {
+                "score": 40.0,
+                "score_breakdown": {
+                    "required_skills": 0.0,
+                    "experience": 25.0,
+                    "education_information": 15.0
+                },
+                "matched_required_skills": [],
+                "missing_required_skills": [
+                    "Programming fundamentals",
+                    "data structures",
+                    "algorithms",
+                    "problem solving",
+                    "object-oriented programming"
+                ],
+                "matched_preferred_skills": [
+                    "Python",
+                    "C++"
+                ],
+                "candidate_experience_years": 4.0,
+                "minimum_required_experience_years": 0.0,
+                "education_status": "Education information available; verify requirements"
+            },
+            "rank": 1
+        }
+    ],
+    "failed_resumes": [
+        {
+            "file_name": "anshit verma resume word - Anshit Verma.docx",
+            "error": "1 validation error for Resume\neducation.0.graduation_year\n  Input should be a valid string [type=string_type, input_value=2024, input_type=int]\n    For further information visit https://errors.pydantic.dev/2.14/v/string_type"
+        },
+        {
+            "file_name": "Arpan_Banik_Resume (3).pdf",
+            "error": "1 validation error for Resume\neducation.1.graduation_year\n  Input should be a valid string [type=string_type, input_value=2024, input_type=int]\n    For further information visit https://errors.pydantic.dev/2.14/v/string_type"
+        }
+    ]
+}
