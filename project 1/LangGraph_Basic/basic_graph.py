@@ -122,4 +122,4 @@ if __name__ == "__main__":
 # The double node multiplies the number by 2.
 # The conditional edge checks whether the number is less than 100.
 # If yes, the double node runs again.
-# If no, the finish node runs and the graph stops.
+# If no, the finish node runs and the graph stops.  
